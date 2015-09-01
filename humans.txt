@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    John Strack	john@gmail.com	@braveheart22
 
 # THANKS
 
